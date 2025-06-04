@@ -1,4 +1,4 @@
-Raul Giannatempo | Technical High School Student at ITI.E.Majorana | Junior Software Developer
+# Raul Giannatempo | Technical High  School Student at ITI.E.Majorana | Junior Software Developer
 
 Grettings, i'm @Raul-Giannatempo
 i'm high school student i'm curently studing computer scienze 
