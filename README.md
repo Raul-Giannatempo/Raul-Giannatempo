@@ -1,6 +1,8 @@
+Raul Giannatempo | Technical High School Student at ITI.E.Majorana | Junior Software Developer
+
 Grettings, i'm @Raul-Giannatempo
 i'm high school student i'm curently studing computer scienze 
-i'm studing many computer language but the main is c#
+i'm studing many computer language but the main is c# and i recemtly got the certificate CISCO
 
 ## Interesed in 😂✌️:
  
